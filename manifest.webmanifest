@@ -1,0 +1,15 @@
+{
+  "name": "건반 코드 도우미",
+  "short_name": "코드 도우미",
+  "description": "코드별 피아노 건반 위치와 소리, 코드 풍성하게 만들기",
+  "lang": "ko",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f4ee",
+  "theme_color": "#2756c9",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
